@@ -1,0 +1,6 @@
+{
+  "name": "課表與時程",
+  "description": "支援學期分級自訂、節次時程彈性調整、必選修分類色標、桌面小工具與字體大小調整的課表應用程式。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">課表與時程</string>
+    <string name="widget_name">今日課表小工具</string>
+    <string name="widget_description">在桌面快速查看今日各節課程與教室地點</string>
+</resources>
