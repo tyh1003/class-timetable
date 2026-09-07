@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="screenshots/timetable.png" width="320" alt="Class Timetable 課表主畫面">
+  <img src="screenshots/timetable.jpg" width="320" alt="Class Timetable 課表主畫面">
 </p>
 
 ---
@@ -35,7 +35,7 @@ Class Timetable 提供 Android **桌面課表小工具（Widget）**，可以直
 # 🏠 把整張課表放到桌面
 
 <p align="center">
-  <img src="screenshots/widget.png" width="420" alt="Android 桌面課表 Widget">
+  <img src="screenshots/widget.jpg" width="420" alt="Android 桌面課表 Widget">
 </p>
 
 Class Timetable 特別設計了 **Android 桌面課表 Widget**。
@@ -62,7 +62,7 @@ Class Timetable 特別設計了 **Android 桌面課表 Widget**。
 # 🎨 課程類別，由你定義
 
 <p align="center">
-  <img src="screenshots/category-colors.png" width="320" alt="自訂課程類別與顏色">
+  <img src="screenshots/category-colors.jpg" width="320" alt="自訂課程類別與顏色">
 </p>
 
 不是每堂課都一樣。
@@ -90,7 +90,7 @@ Class Timetable 可以透過不同的 **課程類別與顏色**，讓一整週�
 # ⏰ 上課時間不固定？自己設定
 
 <p align="center">
-  <img src="screenshots/time-slots.png" width="320" alt="自訂課表時程">
+  <img src="screenshots/time-slots.jpg" width="320" alt="自訂課表時程">
 </p>
 
 不同學校的節次制度差異很大，因此 Class Timetable 的節次並不是寫死的。
@@ -126,7 +126,7 @@ Class Timetable 可以透過不同的 **課程類別與顏色**，讓一整週�
 # 🔤 課表字體也可以調整
 
 <p align="center">
-  <img src="screenshots/font-size.png" width="320" alt="課表字體大小設定">
+  <img src="screenshots/font-size.jpg" width="320" alt="課表字體大小設定">
 </p>
 
 手機螢幕大小、課程名稱長度，以及每個人的閱讀習慣都不一樣。
@@ -142,7 +142,7 @@ Class Timetable 可以透過不同的 **課程類別與顏色**，讓一整週�
 # 🎓 一個 App，管理不同學期與年級
 
 <p align="center">
-  <img src="screenshots/semester.png" width="320" alt="學期與年級管理">
+  <img src="screenshots/semester.jpg" width="320" alt="學期與年級管理">
 </p>
 
 課表不只有一張。
@@ -168,7 +168,7 @@ Class Timetable 支援建立多個課表，而且名稱完全由你決定。
 # ➕ 點一下，就開始排課
 
 <p align="center">
-  <img src="screenshots/add-course.png" width="320" alt="新增課程">
+  <img src="screenshots/add-course.jpg" width="320" alt="新增課程">
 </p>
 
 新增課程不需要填寫一堆複雜資訊。
@@ -315,31 +315,31 @@ Class Timetable 的主要目標不是塞進更多功能，而是：
 ### 課表主畫面
 
 <p align="center">
-  <img src="screenshots/timetable.png" width="300" alt="課表主畫面">
+  <img src="screenshots/timetable.jpg" width="300" alt="課表主畫面">
 </p>
 
 ### 桌面課表 Widget
 
 <p align="center">
-  <img src="screenshots/widget.png" width="420" alt="桌面 Widget">
+  <img src="screenshots/widget.jpg" width="420" alt="桌面 Widget">
 </p>
 
 ### 個人化設定
 
 <p align="center">
-  <img src="screenshots/category-colors.png" width="250" alt="課程分類顏色">
+  <img src="screenshots/category-colors.jpg" width="250" alt="課程分類顏色">
   &nbsp;&nbsp;
-  <img src="screenshots/time-slots.png" width="250" alt="自訂節次">
+  <img src="screenshots/time-slots.jpg" width="250" alt="自訂節次">
   &nbsp;&nbsp;
-  <img src="screenshots/font-size.png" width="250" alt="字體大小">
+  <img src="screenshots/font-size.jpg" width="250" alt="字體大小">
 </p>
 
 ### 學期與課程
 
 <p align="center">
-  <img src="screenshots/semester.png" width="280" alt="學期管理">
+  <img src="screenshots/semester.jpg" width="280" alt="學期管理">
   &nbsp;&nbsp;
-  <img src="screenshots/add-course.png" width="280" alt="新增課程">
+  <img src="screenshots/add-course.jpg" width="280" alt="新增課程">
 </p>
 
 ---
