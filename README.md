@@ -410,30 +410,6 @@ cd class-timetableapp
 
 ---
 
-# 🖼️ README 圖片放置方式
-
-請在 Repository 根目錄建立：
-
-```text
-screenshots/
-```
-
-並將截圖依照以下名稱放入：
-
-```text
-screenshots/
-├── timetable.png
-├── widget.png
-├── category-colors.png
-├── time-slots.png
-├── font-size.png
-├── semester.png
-└── add-course.png
-```
-
-完成後 README 中的圖片就會直接顯示，不需要另外修改圖片網址。
-
----
 
 # 💡 為什麼做這個 App？
 
@@ -452,26 +428,7 @@ screenshots/
 
 而是一張 **可以配合你的學校、你的學期，以及你的使用習慣改變的課表。**
 
----
 
-# 🤝 Contributing
-
-如果你發現 Bug、有新的功能想法，或想一起改善 Class Timetable，歡迎：
-
-- 開啟 **Issue**
-- 提交 **Pull Request**
-- 分享不同學校的節次需求
-- 提供 UI / Widget 改進建議
-
----
-
-# ⭐ Support
-
-如果這個專案對你有幫助，歡迎在 GitHub 上給它一顆 **Star ⭐**。
-
-也歡迎 Fork 專案，打造屬於自己的課表工具。
-
----
 
 <p align="center">
   <b>Class Timetable</b>
